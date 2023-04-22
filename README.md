@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @singhrohit90
 - 👀 I’m interested in Data egineering
-- 🌱 I’m currently learning Scala, Spark, hadoop and python
+- 🌱 I’m love working python, Scala, Spark and hadoop
 - 💞️ I’m looking to collaborate on the same.
 - 📫 How to reach me singhrohit90@live.com
 
